@@ -1,5 +1,5 @@
 ## Vue 3 Forms - Vue Mastery
-• Introduction
+Introduction
 • Base Input
 • Base Select
 • Auto-importing components
